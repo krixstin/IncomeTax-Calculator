@@ -1,5 +1,6 @@
-Income Tax Calculator
-By Christa Baker, Kristin Kim, and Anjali Paliwal
+// Income Tax Calculator
+// By Kristin Kim, Christa Baker, and Anjali Paliwal
+
 #include "pch.h"
 #include <iostream>
 #include <fstream>
